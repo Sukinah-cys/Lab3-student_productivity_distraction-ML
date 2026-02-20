@@ -1,6 +1,6 @@
 # Lab3-student_productivity_distraction-ML
 
-## Student Productivity Analysis — Machine Learning Lab (Google Colab)
+## Student Productivity Analysis — Machine Learning Lab 
 This project performs exploratory data analysis (EDA) on a dataset that examines how academic habits, lifestyle factors, and digital distractions affect student productivity.
 
 ## Objective
