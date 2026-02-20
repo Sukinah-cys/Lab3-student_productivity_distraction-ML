@@ -28,7 +28,6 @@ The dataset contains 20,000 student records describing academic habits, lifestyl
 * Missing Values: None
 
 ## Tools & Technologies
-* Google Colab
 * Python
 * Pandas
 * NumPy
