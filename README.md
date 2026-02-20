@@ -2,7 +2,6 @@
 
 ## Student Productivity Analysis — Machine Learning Lab (Google Colab)
 This project performs exploratory data analysis (EDA) on a dataset that examines how academic habits, lifestyle factors, and digital distractions affect student productivity.
-The analysis was implemented using Python in Google Colab.
 
 ## Objective
 To analyze student productivity patterns and identify key factors influencing productivity scores through statistical summaries and data visualization.
